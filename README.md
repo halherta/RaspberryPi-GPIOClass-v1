@@ -1,4 +1,4 @@
-halherta-RaspberryPi-GPIOClass-v1
+RaspberryPi-GPIOClass-v1
 =================================
 
 Author: Hussam Al-Hertani
