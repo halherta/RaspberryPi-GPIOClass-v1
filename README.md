@@ -7,7 +7,7 @@ Description: The GPIOClass C++ class enables the Raspberry Pi its onboard GPIOs 
 
 ============================================================================================================
 
-For more information please visit:  http://hertaville.com/2012/11/18/introduction-to-accessing-the-raspberry-pis-gpio-in-c/
+For more information please visit: 
 
 ============================================================================================================
 
